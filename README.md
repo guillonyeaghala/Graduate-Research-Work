@@ -1,4 +1,4 @@
-# Graduate-Research-Work
-Compilation of  graduate research projects
+# Research-Work
+Compilation of research projects
 
-This repository documents various presentations I had the opportunity to give during my graduate education
+This repository documents various research projects I had the opportunity to collaborate on.
